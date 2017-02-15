@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 git branch 1345
-=======
-git branch 1234
->>>>>>> b1
+
